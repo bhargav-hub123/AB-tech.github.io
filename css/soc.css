@@ -1,0 +1,25 @@
+.l {
+    font-size: 25px;
+    text-align: left;
+}
+
+.q {
+    color: black;
+    text-decoration: none;
+}
+
+.q:hover {
+    color: rgb(33, 111, 175);
+}
+
+.qwerty {
+    color: blue;
+    font-size: 25px;
+    text-align: left;
+}
+
+.p {
+    font-size: 20px;
+    color: black;
+    text-align: left;
+}
